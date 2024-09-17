@@ -1,0 +1,216 @@
+{
+    "frases": [
+      {
+        "id": 1,
+        "frase": "O sucesso é ir de fracasso em fracasso sem perder o entusiasmo.",
+        "autor": "Winston Churchill",
+        "ano": 1941,
+        "categoria": "motivacional"
+      },
+      {
+        "id": 2,
+        "frase": "A vida é 10% o que acontece comigo e 90% como eu reajo a isso.",
+        "autor": "Charles Swindoll",
+        "ano": 1980,
+        "categoria": "motivacional"
+      },
+      {
+        "id": 3,
+        "frase": "Eu posso aceitar a falha. Todo mundo falha em alguma coisa. Mas eu não posso aceitar não tentar.",
+        "autor": "Michael Jordan",
+        "ano": 1994,
+        "categoria": "motivacional"
+      },
+      {
+        "id": 4,
+        "frase": "A única maneira de fazer um ótimo trabalho é amar o que você faz.",
+        "autor": "Steve Jobs",
+        "ano": 2005,
+        "categoria": "motivacional"
+      },
+      {
+        "id": 5,
+        "frase": "Acredite que você pode, assim você já está no meio do caminho.",
+        "autor": "Theodore Roosevelt",
+        "ano": 1901,
+        "categoria": "motivacional"
+      },
+      {
+        "id": 6,
+        "frase": "A maior glória em viver não está em nunca cair, mas em se levantar a cada vez que caímos.",
+        "autor": "Nelson Mandela",
+        "ano": 1993,
+        "categoria": "motivacional"
+      },
+      {
+        "id": 7,
+        "frase": "Não importa o quão devagar você vá, desde que não pare.",
+        "autor": "Confúcio",
+        "ano": -500,
+        "categoria": "motivacional"
+      },
+      {
+        "id": 8,
+        "frase": "O futuro pertence àqueles que acreditam na beleza dos seus sonhos.",
+        "autor": "Eleanor Roosevelt",
+        "ano": 1933,
+        "categoria": "motivacional"
+      },
+      {
+        "id": 9,
+        "frase": "Você nunca sabe a força que tem até que a sua única alternativa é ser forte.",
+        "autor": "Bob Marley",
+        "ano": 1978,
+        "categoria": "motivacional"
+      },
+      {
+        "id": 10,
+        "frase": "O que nos falta em talento pode ser compensado com desejo, agitação e dar 110% o tempo todo.",
+        "autor": "Don Zimmer",
+        "ano": 1985,
+        "categoria": "motivacional"
+      },
+      {
+        "id": 11,
+        "frase": "A vida é aquilo que acontece enquanto estamos ocupados fazendo outros planos.",
+        "autor": "John Lennon",
+        "ano": 1980,
+        "categoria": "reflexiva"
+      },
+      {
+        "id": 12,
+        "frase": "A persistência é o caminho do êxito.",
+        "autor": "Charles Chaplin",
+        "ano": 1930,
+        "categoria": "reflexiva"
+      },
+      {
+        "id": 13,
+        "frase": "Quem olha para fora sonha, quem olha para dentro desperta.",
+        "autor": "Carl Jung",
+        "ano": 1940,
+        "categoria": "reflexiva"
+      },
+      {
+        "id": 14,
+        "frase": "A vida não examinada não vale a pena ser vivida.",
+        "autor": "Sócrates",
+        "ano": -399,
+        "categoria": "reflexiva"
+      },
+      {
+        "id": 15,
+        "frase": "O homem não é nada além daquilo que a educação faz dele.",
+        "autor": "Immanuel Kant",
+        "ano": 1780,
+        "categoria": "reflexiva"
+      },
+      {
+        "id": 16,
+        "frase": "A felicidade não é algo pronto. Ela vem das suas próprias ações.",
+        "autor": "Dalai Lama",
+        "ano": 1990,
+        "categoria": "reflexiva"
+      },
+      {
+        "id": 17,
+        "frase": "O que você faz fala tão alto que não consigo ouvir o que você diz.",
+        "autor": "Ralph Waldo Emerson",
+        "ano": 1850,
+        "categoria": "reflexiva"
+      },
+      {
+        "id": 18,
+        "frase": "Viver é a coisa mais rara do mundo. A maioria das pessoas apenas existe.",
+        "autor": "Oscar Wilde",
+        "ano": 1890,
+        "categoria": "reflexiva"
+      },
+      {
+        "id": 19,
+        "frase": "Pessoas que estão loucas o suficiente para pensar que podem mudar o mundo são aquelas que o fazem.",
+        "autor": "Steve Jobs",
+        "ano": 1997,
+        "categoria": "reflexiva"
+      },
+      {
+        "id": 20,
+        "frase": "O medo é a maior barreira para o progresso.",
+        "autor": "Henry Ford",
+        "ano": 1910,
+        "categoria": "reflexiva"
+      },
+      {
+        "id": 21,
+        "frase": "Eu nunca falhei em um exame. Apenas encontrei 100 maneiras de responder errado.",
+        "autor": "Benjamin Franklin",
+        "ano": 1770,
+        "categoria": "divertida"
+      },
+      {
+        "id": 22,
+        "frase": "A sabedoria vem de escutar; a maioria das pessoas ouve apenas para responder.",
+        "autor": "Anônimo",
+        "ano": 2000,
+        "categoria": "divertida"
+      },
+      {
+        "id": 23,
+        "frase": "Eu geralmente não falo muito, mas quando falo, digo algo estúpido.",
+        "autor": "Robert Downey Jr.",
+        "ano": 2008,
+        "categoria": "divertida"
+      },
+      {
+        "id": 24,
+        "frase": "Aquele que ri por último pensa mais devagar.",
+        "autor": "Anônimo",
+        "ano": 2010,
+        "categoria": "divertida"
+      },
+      {
+        "id": 25,
+        "frase": "Se você acha que ninguém se importa com você, tente perder um pagamento da hipoteca.",
+        "autor": "Steven Wright",
+        "ano": 1985,
+        "categoria": "divertida"
+      },
+      {
+        "id": 26,
+        "frase": "Metade dos nossos erros na vida nascem do fato de sentirmos quando devemos pensar e pensarmos quando devemos sentir.",
+        "autor": "John Collins",
+        "ano": 1920,
+        "categoria": "divertida"
+      },
+      {
+        "id": 27,
+        "frase": "Não leve a vida muito a sério, você nunca sairá dela vivo.",
+        "autor": "Elbert Hubbard",
+        "ano": 1905,
+        "categoria": "divertida"
+      },
+      {
+        "id": 28,
+        "frase": "Eu me recuso a entrar em uma guerra de inteligência com alguém desarmado.",
+        "autor": "Anônimo",
+        "ano": 2005,
+        "categoria": "divertida"
+      },
+      {
+        "id": 29,
+        "frase": "É melhor manter a boca fechada e deixar os outros pensarem que você é um idiota do que abri-la e confirmar isso.",
+        "autor": "Mark Twain",
+        "ano": 1895,
+        "categoria": "divertida"
+      },
+      {
+        "id": 30,
+        "frase": "Nunca subestime o poder das palavras ditas sem pensar.",
+        "autor": "Anônimo",
+        "ano": 2015,
+        "categoria": "divertida"
+      }
+    ]
+  }
+  
+  
